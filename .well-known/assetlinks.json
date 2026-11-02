@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "fr.bg3d81.chiffragefab",
+        "sha256_cert_fingerprints": ["47:57:2F:40:51:0E:D7:61:05:AF:FC:B5:B4:E6:07:99:2F:56:FC:88:34:6C:9F:51:40:84:99:CA:21:D9:98:E7"]
+      }
+    }]
